@@ -1,0 +1,79 @@
+/* General Elements*/
+body {
+      background-image: url(../images/green_dust_scratch_@2X.png);
+      margin: auto;
+      margin-top: 1%;
+      width: 90%;
+}
+
+img {
+      height: 75px;
+      width: auto;
+}
+
+.title {
+      width: 27%;
+      font-size: 50px;
+      color: #fff;
+      padding: 20px;
+      background-color: darkorange;
+}
+
+section {
+      width: 45%;
+      margin-top: 1%;
+      margin-bottom: 10px;
+      background-color: blanchedalmond;
+}
+
+.info p {
+      padding: 15px;
+      color: darkgreen;
+      font-size: 20px;
+}
+
+.number {
+      width: 15%;
+      height: 120px;
+      background-color: lightgreen;
+      font-size: 40px;
+      float: left;
+}
+
+.scores {
+      float: left;
+      background-color: aqua;
+      width: 8%;
+      height: 120px;
+      margin-left: 10px;
+      margin-bottom: 10px;
+}
+
+.scores h2 {
+      padding: 10px;
+}
+
+.crystals {
+      clear: both;
+}
+
+.crystals img {
+      border: solid 2px #444;
+      padding: 5px;
+}
+.totalText{
+      width: 15%;
+      background-color: darkcyan;
+      color: #fff;
+      padding: 5px;
+      margin-top: 10px;
+}
+.total{
+      width: 15%;
+      height: 75px;
+      margin-top: 10px;
+      background-color: darkcyan;
+      color: #fff;
+      padding: 5px;
+      font-size: 40px;
+}
